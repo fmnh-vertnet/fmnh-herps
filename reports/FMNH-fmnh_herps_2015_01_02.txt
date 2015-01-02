@@ -1,0 +1,241 @@
+Report for Institution Code FMNH, Resource fmnh_herps
+Usage stats for December, 2014, generated on 2015/01/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 124
+Number of records retrieved in searches: 1720
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Algeria ; Times: 3
+	Country: France ; Times: 1
+	Country: Germany ; Times: 11
+	Country: Mexico ; Times: 19
+	Country: Portugal ; Times: 8
+	Country: Ukraine ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 76
+	Country: Unknown ; Times: 2
+	Country: Vietnam ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 6
+	Date: 2014-12-02 ; Times: 9
+	Date: 2014-12-03 ; Times: 8
+	Date: 2014-12-04 ; Times: 7
+	Date: 2014-12-05 ; Times: 2
+	Date: 2014-12-06 ; Times: 3
+	Date: 2014-12-07 ; Times: 2
+	Date: 2014-12-08 ; Times: 3
+	Date: 2014-12-09 ; Times: 6
+	Date: 2014-12-10 ; Times: 6
+	Date: 2014-12-11 ; Times: 5
+	Date: 2014-12-12 ; Times: 6
+	Date: 2014-12-13 ; Times: 1
+	Date: 2014-12-15 ; Times: 6
+	Date: 2014-12-16 ; Times: 5
+	Date: 2014-12-17 ; Times: 2
+	Date: 2014-12-18 ; Times: 13
+	Date: 2014-12-19 ; Times: 2
+	Date: 2014-12-20 ; Times: 4
+	Date: 2014-12-21 ; Times: 1
+	Date: 2014-12-22 ; Times: 8
+	Date: 2014-12-23 ; Times: 4
+	Date: 2014-12-25 ; Times: 2
+	Date: 2014-12-26 ; Times: 5
+	Date: 2014-12-27 ; Times: 5
+	Date: 2014-12-28 ; Times: 1
+	Date: 2014-12-29 ; Times: 1
+	Date: 2014-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ophryacus" ; Times: 1
+	Query: "Elaphe dione" ; Times: 1
+	Query: "wisconsin rana sylvatica" ; Times: 2
+	Query: "Oreophrynella" ; Times: 1
+	Query: "Caecilia orientalis" ; Times: 2
+	Query: "anolis brunneus" ; Times: 1
+	Query: "coleonyx elegans nemoralis" ; Times: 1
+	Query: "ogmodon vitianus" ; Times: 1
+	Query: "Eublepharis macularius" ; Times: 2
+	Query: "Micrurus tener" ; Times: 2
+	Query: "Notophthalmus viridescens cook county" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:odoratus genus:Sternotherus class:Reptilia" ; Times: 2
+	Query: "(Amnirana)" ; Times: 1
+	Query: "rana sylvatica (wisconsin)" ; Times: 2
+	Query: "Crotalus willardi stateprovince:"Arizona"" ; Times: 1
+	Query: "171633 institutioncode:FMNH" ; Times: 1
+	Query: "bufo luetkenii" ; Times: 1
+	Query: "crotalus culminatus" ; Times: 3
+	Query: "Pyxidea mouhotii" ; Times: 2
+	Query: "micrurus tener" ; Times: 1
+	Query: "Ambystoma tigrinum mchenry county" ; Times: 1
+	Query: "chalarodon type:specimen" ; Times: 2
+	Query: "Ptychadena porosissima" ; Times: 5
+	Query: "Storeria occipitomaculata occipitomaculata cook county" ; Times: 1
+	Query: "alytes obstetricans" ; Times: 1
+	Query: "crotalus horridus stateprovince:"New york"" ; Times: 1
+	Query: "Salvadora bairdi" ; Times: 1
+	Query: "trachylepis madagascariensis" ; Times: 1
+	Query: "137641 institutioncode:FMNH" ; Times: 1
+	Query: "candoia bibroni" ; Times: 1
+	Query: "Psammophilus" ; Times: 1
+	Query: "country:"Lao"" ; Times: 1
+	Query: "specificepithet:rhombifer genus:Drymobius" ; Times: 7
+	Query: "trachylepis elegans" ; Times: 1
+	Query: "rana sylvatica (wisconsin) year >= 2002 year <= 2014" ; Times: 1
+	Query: "stateprovince:"kentucky" class:reptilia" ; Times: 1
+	Query: "Ophisaurus gracilis year >= 1980 year <= 2014" ; Times: 1
+	Query: "hyla smaragdina" ; Times: 1
+	Query: "266820" ; Times: 2
+	Query: "Emydoidea" ; Times: 1
+	Query: "stateprovince:"new york" genus:heterodon" ; Times: 1
+	Query: "Abronia martindelcampoi" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "crotalus horridus stateprovince:"New York"" ; Times: 1
+	Query: "Thamnophis sirtalis cook county" ; Times: 1
+	Query: "Isopachys" ; Times: 1
+	Query: "heterodon stateprovince:"new york"" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "Kiester" ; Times: 1
+	Query: "Anolis brunneus" ; Times: 2
+	Query: "rhadinaea kinkelini" ; Times: 1
+	Query: "bufo gemmifer" ; Times: 1
+	Query: "trachylepis country:"madagascar"" ; Times: 2
+	Query: "albolabris year >= 1990 year <= 2014" ; Times: 2
+	Query: "specificepithet:rhombifer genus:Drymobius institutioncode:FMNH" ; Times: 1
+	Query: "Stegonotus modestus" ; Times: 2
+	Query: "bufo mauritanicus" ; Times: 1
+	Query: "chrysopelea ornata" ; Times: 3
+	Query: "trachylepis gravenhorsti" ; Times: 1
+	Query: "148422 institutioncode:FMNH" ; Times: 1
+	Query: "salvadora bairdi" ; Times: 3
+	Query: "aspidomorphus" ; Times: 1
+	Query: "Phrynosoma cornutum country:"Mexico"" ; Times: 2
+	Query: "Gallotia" ; Times: 1
+	Query: "FMNH 100007" ; Times: 1
+	Query: "stateprovince:"mississippi" institutioncode:fmnh" ; Times: 1
+	Query: "lacerta schreiberi" ; Times: 1
+	Query: "canada rana sylvatica" ; Times: 1
+	Query: "crotalus intermedius" ; Times: 1
+	Query: "Phrynosoma braconnieri" ; Times: 2
+	Query: "ptychadena porosissima" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Sternotherus class:Reptilia" ; Times: 2
+	Query: "pleurodeles poireti" ; Times: 2
+	Query: "Goniurosaurus" ; Times: 1
+	Query: "ogmodon" ; Times: 1
+	Query: "Sphenomorphus sabanus" ; Times: 2
+	Query: "Pelochelys bibroni" ; Times: 1
+	Query: "Ophisaurus year >= 1980 year <= 2014" ; Times: 2
+	Query: "chermocki" ; Times: 1
+	Query: "sphenomorphus emigrans" ; Times: 2
+	Query: "Coryphophylax" ; Times: 2
+	Query: "institutioncode:fmnh" ; Times: 1
+	Query: "trachylepis varia" ; Times: 1
+	Query: "trachylepis dumasi" ; Times: 1
+	Query: "Emydoidea blandingii cook county" ; Times: 2
+	Query: "Thamnophis radix cook county" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 238 download events in this period)
+Total number of records downloaded: 9088 (out of 1054698 records downloaded for all resources in this period)
+Total number of unique records downloaded: 8002
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Algeria ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: South Africa ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 1
+	Date: 2014-12-02 ; Times: 3
+	Date: 2014-12-03 ; Times: 5
+	Date: 2014-12-04 ; Times: 1
+	Date: 2014-12-05 ; Times: 8
+	Date: 2014-12-07 ; Times: 1
+	Date: 2014-12-08 ; Times: 1
+	Date: 2014-12-09 ; Times: 1
+	Date: 2014-12-10 ; Times: 5
+	Date: 2014-12-11 ; Times: 2
+	Date: 2014-12-12 ; Times: 5
+	Date: 2014-12-14 ; Times: 1
+	Date: 2014-12-15 ; Times: 2
+	Date: 2014-12-21 ; Times: 1
+	Date: 2014-12-22 ; Times: 1
+	Date: 2014-12-23 ; Times: 2
+	Date: 2014-12-24 ; Times: 5
+	Date: 2014-12-26 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Ophryacus" ; Times: 1
+	Query: "ambystoma californiense" ; Times: 1
+	Query: "county:"Socorro" stateprovince:"New Mexico"" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "Aneides" ; Times: 2
+	Query: "county:"San Juan" stateprovince:"Utah"" ; Times: 1
+	Query: "rana sevosa" ; Times: 1
+	Query: "aneides flavipunctatus" ; Times: 1
+	Query: "Lacertidae" ; Times: 1
+	Query: "Plethodon elongatus" ; Times: 1
+	Query: "county:"Apache" stateprovince:"Arizona"" ; Times: 1
+	Query: "rhyacotriton olympicus" ; Times: 1
+	Query: "rhyacotriton variegatus" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "ambystoma rosaceum" ; Times: 3
+	Query: "wyoming" ; Times: 1
+	Query: "Imantodes" ; Times: 1
+	Query: "county:"Coconino" stateprovince:"Arizona"" ; Times: 1
+	Query: "testudinidae" ; Times: 1
+	Query: "anotheca spinosa" ; Times: 1
+	Query: "bufo mauritanicus" ; Times: 3
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "salvadora bairdi" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "Elaphe dione" ; Times: 1
+	Query: "Rana muscosa" ; Times: 1
+	Query: "Micrurus tener" ; Times: 1
+	Query: "Thorius pennatulus" ; Times: 1
+	Query: "hyla smaragdina" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:coronatum genus:Phrynosoma" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "county:"Navajo" stateprovince:"Arizona"" ; Times: 1
+	Query: "rana areolata" ; Times: 1
+	Query: "crotalus willardi" ; Times: 1
+	Query: "genus:craugastor" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: ""plethodon dunni"" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:multicarinata genus:Elgaria" ; Times: 1
+	Query: "Batrachoseps" ; Times: 1
+	Query: "micrurus tener" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1767
+Total number of records retrieved from searches: 23561
+Number of download events that retrieved data from the resource: 447
+Total number of records downloaded: 89642
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1767
+Total number of records retrieved from searches: 23561
+Number of download events that retrieved data from the resource: 526
+Total number of records downloaded: 135210
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
