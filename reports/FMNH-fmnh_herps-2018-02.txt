@@ -1,0 +1,777 @@
+Report for Institution Code FMNH, Resource fmnh_herps
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1014
+Number of records retrieved in searches: 10941
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 41
+	Country: Italy ; Times: 29
+	Country: Unknown ; Times: 43
+	Country: France ; Times: 1
+	Country: Argentina ; Times: 13
+	Country: Ecuador ; Times: 2
+	Country: Israel ; Times: 7
+	Country: Australia ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: China ; Times: 11
+	Country: Chile ; Times: 5
+	Country: Puerto Rico ; Times: 10
+	Country: Belgium ; Times: 25
+	Country: Germany ; Times: 13
+	Country: Dominican Republic ; Times: 3
+	Country: Spain ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 561
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 70
+	Country: India ; Times: 7
+	Country: United Kingdom ; Times: 144
+	Country: Colombia ; Times: 5
+	Country: Sri Lanka ; Times: 1
+	Country: Japan ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 56
+	Date: 2018-02-08 ; Times: 34
+	Date: 2018-02-03 ; Times: 5
+	Date: 2018-02-02 ; Times: 82
+	Date: 2018-02-01 ; Times: 15
+	Date: 2018-02-07 ; Times: 40
+	Date: 2018-02-06 ; Times: 48
+	Date: 2018-02-05 ; Times: 13
+	Date: 2018-02-04 ; Times: 8
+	Date: 2018-02-21 ; Times: 59
+	Date: 2018-02-20 ; Times: 98
+	Date: 2018-02-23 ; Times: 19
+	Date: 2018-02-22 ; Times: 17
+	Date: 2018-02-25 ; Times: 18
+	Date: 2018-02-24 ; Times: 16
+	Date: 2018-02-27 ; Times: 45
+	Date: 2018-02-26 ; Times: 37
+	Date: 2018-02-28 ; Times: 41
+	Date: 2018-02-14 ; Times: 18
+	Date: 2018-02-15 ; Times: 32
+	Date: 2018-02-16 ; Times: 32
+	Date: 2018-02-17 ; Times: 7
+	Date: 2018-02-10 ; Times: 16
+	Date: 2018-02-11 ; Times: 22
+	Date: 2018-02-12 ; Times: 94
+	Date: 2018-02-13 ; Times: 78
+	Date: 2018-02-18 ; Times: 37
+	Date: 2018-02-19 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chatogekko" ; Times: 1
+	Query: "trapelus mutabilis" ; Times: 5
+	Query: "Hydrophis institutioncode:FMNH" ; Times: 1
+	Query: "Lepidophyma pajapanensis" ; Times: 1
+	Query: "aplopeltura boa" ; Times: 3
+	Query: "Geophis godmani" ; Times: 2
+	Query: "sceloporus Slevini" ; Times: 1
+	Query: "draco reticulatus" ; Times: 3
+	Query: "FMNH 213965" ; Times: 1
+	Query: "FMNH 148939" ; Times: 1
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "catalognumber:53568 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:132822 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:plestiodon hassex:1" ; Times: 1
+	Query: "specificepithet:vipera genus:Cerastes" ; Times: 4
+	Query: "genus:Tylototriton specificepithet:asperrimus" ; Times: 1
+	Query: "FMNH 231227" ; Times: 1
+	Query: "Barisia ciliaris" ; Times: 2
+	Query: "FMNH 167721" ; Times: 1
+	Query: "Microhyla rubra" ; Times: 1
+	Query: "Emoia aneityumensis" ; Times: 2
+	Query: "Micrurus laticollaris" ; Times: 2
+	Query: "catalognumber:11010 institutioncode:FMNH" ; Times: 1
+	Query: "genus:andrias preparations:alc" ; Times: 1
+	Query: "Hypnale" ; Times: 1
+	Query: "catalognumber:172462 institutioncode:FMNH" ; Times: 1
+	Query: "bolitoglossa mulleri" ; Times: 1
+	Query: "Plethodon nettingi grant" ; Times: 1
+	Query: "Liopeltis stoliczkae" ; Times: 1
+	Query: "catalognumber:188850 institutioncode:FMNH" ; Times: 1
+	Query: "Dryocalamus tristrigatus" ; Times: 1
+	Query: "Sibynomorphus ventrimaculatus" ; Times: 1
+	Query: "genus:Geagras" ; Times: 2
+	Query: "genus:pythonodipsas" ; Times: 1
+	Query: "catalognumber:172459 institutioncode:FMNH" ; Times: 1
+	Query: "Dipsas catesbyi" ; Times: 5
+	Query: "vntype:specimen institutioncode:FMNH basisofrecord" ; Times: 1
+	Query: "paramesotriton" ; Times: 5
+	Query: "catalognumber:94363 institutioncode:FMNH" ; Times: 1
+	Query: "224721" ; Times: 2
+	Query: "catalognumber:132821 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:53564 institutioncode:FMNH" ; Times: 1
+	Query: "scientificname:&#34;ithycyphus oursi&#34;" ; Times: 1
+	Query: "lampropeltis occipitolineata" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "catalognumber:46066 institutioncode:FMNH" ; Times: 1
+	Query: "Podocnemis unifilis" ; Times: 1
+	Query: "Lygosoma corpulentum" ; Times: 3
+	Query: "Aspidoscelis arizonae" ; Times: 2
+	Query: "Ninia atrata" ; Times: 3
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 2000" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 2
+	Query: "Ptyodactylus guttatus" ; Times: 3
+	Query: "Diadophis punctatus regalis" ; Times: 2
+	Query: "genus:Cercolophia" ; Times: 1
+	Query: "fmnh gekko japan" ; Times: 1
+	Query: "catalognumber:188491 institutioncode:FMNH" ; Times: 1
+	Query: "Chilorhinophis" ; Times: 1
+	Query: "Jeffersonianum illinois" ; Times: 1
+	Query: "B-1357" ; Times: 1
+	Query: "Atractus badius" ; Times: 1
+	Query: "85180" ; Times: 1
+	Query: "catalognumber:84776 institutioncode:FMNH" ; Times: 1
+	Query: "Bungarus ceylonicus" ; Times: 12
+	Query: "Bothriechis bicolor" ; Times: 1
+	Query: "catalognumber:157724 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:94359 institutioncode:FMNH" ; Times: 1
+	Query: "174405" ; Times: 1
+	Query: "ambystoma bishopi" ; Times: 4
+	Query: "catalognumber:243156" ; Times: 2
+	Query: "catalognumber:22850 institutioncode:FMNH" ; Times: 1
+	Query: "54553" ; Times: 1
+	Query: "gonyosoma oxycephalum" ; Times: 1
+	Query: "FMNH 11078" ; Times: 1
+	Query: "FMNH 81028" ; Times: 2
+	Query: "FMNH 81029" ; Times: 2
+	Query: "Liotyphlops albirostris" ; Times: 4
+	Query: "catalognumber:131858 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:166 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 81022" ; Times: 2
+	Query: "FMNH 81023" ; Times: 2
+	Query: "FMNH 81021" ; Times: 3
+	Query: "FMNH 81026" ; Times: 2
+	Query: "FMNH 86978" ; Times: 2
+	Query: "FMNH 81024" ; Times: 3
+	Query: "FMNH 81025" ; Times: 2
+	Query: "geoemyda spengleri" ; Times: 5
+	Query: "noblella vntype:specimen" ; Times: 8
+	Query: "50129" ; Times: 1
+	Query: "Crotalus lepidus klauberi" ; Times: 2
+	Query: "Actinemys marmorata" ; Times: 4
+	Query: "catalognumber:171488 institutioncode:FMNH" ; Times: 1
+	Query: "Guyana (reptile)" ; Times: 2
+	Query: "vipera ursinii" ; Times: 29
+	Query: "catalognumber:224835" ; Times: 1
+	Query: "specificepithet:grahamii genus:regina year &gt;= 1990 year &lt;= 2018 institutioncode:FMNH" ; Times: 1
+	Query: "Arizona elegans occidentalis" ; Times: 1
+	Query: "Cerastes vipera" ; Times: 2
+	Query: "fmnh tropidophorus" ; Times: 1
+	Query: "specificepithet:palavanensis genus:Limnonectes hastissue:1" ; Times: 1
+	Query: "catalognumber:131864 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:167607 institutioncode:FMNH" ; Times: 1
+	Query: "family:Amphisbaenidae country:&#34;Panama&#34;" ; Times: 2
+	Query: "catalognumber:124297 institutioncode:FMNH" ; Times: 1
+	Query: "leiocephalus lunatus lunatus" ; Times: 2
+	Query: "FMNH 175283" ; Times: 4
+	Query: "pituophis deppei" ; Times: 1
+	Query: "catalognumber:53565 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:53569 institutioncode:FMNH" ; Times: 1
+	Query: "spea intermontana FMNH" ; Times: 1
+	Query: "scientificname:&#34;truebella tothastes&#34;" ; Times: 1
+	Query: "Trapelus pallidus pallidus" ; Times: 2
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "Psammophis rukwae" ; Times: 2
+	Query: "zamenis longissimus" ; Times: 3
+	Query: "Kinixys natalensis" ; Times: 3
+	Query: "gekko romblon fmnh" ; Times: 1
+	Query: "indotyphlops khoratensis" ; Times: 1
+	Query: "genus:Abronia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:tantilla year &gt;= 2000 institutioncode:FMNH" ; Times: 1
+	Query: "genus:Diadophis institutioncode:FMNH" ; Times: 1
+	Query: "sphenomorphus indicus fmnh" ; Times: 1
+	Query: "lampropeltis zonata pulchra" ; Times: 1
+	Query: "FMNH 218403" ; Times: 1
+	Query: "pseudocalotes microlepis fmnh" ; Times: 1
+	Query: "FMNH 218400" ; Times: 1
+	Query: "RHADINAEA HESPERIA" ; Times: 1
+	Query: "FMNH 231222" ; Times: 1
+	Query: "catalognumber:74868" ; Times: 1
+	Query: "genus:Amphisbaena class:Reptilia country:&#34;Guyana&#34;" ; Times: 1
+	Query: "FMNH 100093" ; Times: 1
+	Query: "catalognumber:19239 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 205242" ; Times: 1
+	Query: "catalognumber:129324 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:94361 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 38885" ; Times: 1
+	Query: "genus:rhineura hassex:1" ; Times: 1
+	Query: "FMNH 218109" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "fmnh calotes mystaceus" ; Times: 1
+	Query: "country:&#34;New Zealand&#34; institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:Calligaster genus:Lampropeltis county:&#34;Okeechobee&#34;" ; Times: 1
+	Query: "catalognumber:67276 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:172456 institutioncode:FMNH" ; Times: 1
+	Query: "Duberria variegata" ; Times: 3
+	Query: "catalognumber:129640" ; Times: 1
+	Query: "shropshirei" ; Times: 2
+	Query: "Coniophanes bipunctatus" ; Times: 1
+	Query: "Crotalus molossus nigrescens" ; Times: 1
+	Query: "family:Anguidae country:&#34;Panama&#34;" ; Times: 1
+	Query: "catalognumber:9274 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Panama&#34;" ; Times: 2
+	Query: "156047" ; Times: 1
+	Query: "catalognumber:94360 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:grahamii genus:regina year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "35931" ; Times: 2
+	Query: "FMNH Draco bimaculatus" ; Times: 1
+	Query: "catalognumber:171749 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 234943" ; Times: 1
+	Query: "Ophryacus undulatus" ; Times: 1
+	Query: "114041" ; Times: 1
+	Query: "&#34;Melanosuchus niger&#34;" ; Times: 1
+	Query: "Leptotyphlops cairi" ; Times: 1
+	Query: "catalognumber:84774 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 67721" ; Times: 1
+	Query: "catalognumber:15017 institutioncode:FMNH" ; Times: 1
+	Query: "Mesalina rubropunctata" ; Times: 2
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "catalognumber:101839 institutioncode:FMNH" ; Times: 1
+	Query: "Allophryne ruthveni" ; Times: 1
+	Query: "oxyrhabdium" ; Times: 1
+	Query: "Xenochrophis maculatus" ; Times: 1
+	Query: "genus:Masticophis country:&#34;Venezuela&#34;" ; Times: 3
+	Query: "FMNH 190259" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "FMNH 35144" ; Times: 3
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1995" ; Times: 2
+	Query: "liopeltis tricolor" ; Times: 5
+	Query: "genus:Tantilla country:&#34;Venezuela&#34; year &gt;= 1985" ; Times: 1
+	Query: "thoropa ecuador" ; Times: 1
+	Query: "brongersmai" ; Times: 1
+	Query: "Eleutherodactylus jasperi" ; Times: 1
+	Query: "catalognumber:169762 institutioncode:FMNH" ; Times: 1
+	Query: "Caudiverbera vntype:specimen" ; Times: 8
+	Query: "luperosaurus fmnh" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "Phyllodactylus pumilus" ; Times: 3
+	Query: "108688" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa country:&#34;Peru&#34;" ; Times: 1
+	Query: "catalognumber:74381 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:74382 institutioncode:FMNH" ; Times: 1
+	Query: "Geodipsas" ; Times: 1
+	Query: "196013" ; Times: 1
+	Query: "Scutiger occidentalis" ; Times: 5
+	Query: "specificepithet:atrox genus:Bothrops country:&#34;Colombia&#34;" ; Times: 4
+	Query: "genus:Scinax specificepithet:elaeochrous" ; Times: 1
+	Query: "fmnh sphenomorphus stellatus" ; Times: 1
+	Query: "brachymeles gracilis fmnh" ; Times: 1
+	Query: "FMNH 113530" ; Times: 1
+	Query: "cyrtodactylus annulatus fmnh" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Imperial&#34;" ; Times: 2
+	Query: "Basiliscus galeritus ecuador" ; Times: 1
+	Query: "Clelia scytalina" ; Times: 1
+	Query: "specificepithet:viguieri genus:Dipsas country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Macroprotodon" ; Times: 1
+	Query: "aspidoscelis arizonae" ; Times: 2
+	Query: "catalognumber:42188 institutioncode:FMNH" ; Times: 1
+	Query: "genus:regina institutioncode:FMNH" ; Times: 1
+	Query: "Tupinambis merianae" ; Times: 2
+	Query: "specificepithet:scabrum genus:Cyrtopodion year &gt;= 1980" ; Times: 2
+	Query: "crotalus willardi" ; Times: 1
+	Query: "Helminthophis praeocularis" ; Times: 3
+	Query: "Kinixys nogueyi" ; Times: 12
+	Query: "genus:Limnonectes specificepithet:laticeps" ; Times: 1
+	Query: "Tropidodipsas sartorii" ; Times: 4
+	Query: "sceloporus slevini" ; Times: 10
+	Query: "laudakia microlepis" ; Times: 2
+	Query: "lampropeltis annulata" ; Times: 1
+	Query: "FMNH 158299" ; Times: 1
+	Query: "specificepithet:Wehrlei genus:Plethodon institutioncode:FMNH" ; Times: 1
+	Query: "leptodactylus macrosternum" ; Times: 4
+	Query: "Chilorhinophis carpenteri" ; Times: 2
+	Query: "Calotes mystaceus FMNH" ; Times: 1
+	Query: "79588" ; Times: 1
+	Query: "catalognumber:11132 institutioncode:FMNH" ; Times: 1
+	Query: "Ceratophrys stolzmanni" ; Times: 14
+	Query: "Dipsas variegata" ; Times: 1
+	Query: "fmnh quadrupes" ; Times: 1
+	Query: "ficimia publia" ; Times: 1
+	Query: "Diadophis punctatus modestus" ; Times: 3
+	Query: "oligodon catenatus" ; Times: 1
+	Query: "catalognumber:93587 institutioncode:FMNH" ; Times: 1
+	Query: "tropidophorus perplexus fmnh" ; Times: 1
+	Query: "Psammophis aegyptius" ; Times: 1
+	Query: "atelopus glyphus" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 2
+	Query: "Ptyodactylus h" ; Times: 1
+	Query: "FMNH 81031" ; Times: 2
+	Query: "FMNH 81030" ; Times: 2
+	Query: "FMNH 81033" ; Times: 3
+	Query: "FMNH 81032" ; Times: 2
+	Query: "FMNH 81035" ; Times: 2
+	Query: "FMNH 81034" ; Times: 2
+	Query: "FMNH 81037" ; Times: 2
+	Query: "catalognumber:15946 institutioncode:FMNH" ; Times: 1
+	Query: "clonophis kirtlandii" ; Times: 8
+	Query: "Kinixys" ; Times: 1
+	Query: "FMNH 168652" ; Times: 1
+	Query: "Anadia" ; Times: 1
+	Query: "leptotyphlops cairi" ; Times: 1
+	Query: "222778" ; Times: 1
+	Query: "catalognumber:61737 institutioncode:FMNH" ; Times: 1
+	Query: "Chalcides humilis" ; Times: 3
+	Query: "catalognumber:207650 institutioncode:FMNH" ; Times: 1
+	Query: "caecilia subnigricans" ; Times: 2
+	Query: "varanus griseus" ; Times: 4
+	Query: "catalognumber:169763 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:203974 institutioncode:FMNH" ; Times: 1
+	Query: "ambystoma barbouri" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 6
+	Query: "Calotes mystaceus thailand FMNH" ; Times: 1
+	Query: "lepidobatrachus asper" ; Times: 1
+	Query: "genus:leptotyphlops (male OR female) hassex:1" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 16
+	Query: "FMNH 123875" ; Times: 1
+	Query: "Sibynomorphus neuwiedi" ; Times: 1
+	Query: "FMNH 81637" ; Times: 2
+	Query: "FMNH 81636" ; Times: 2
+	Query: "genus:Tropiocolotes year &gt;= 1980" ; Times: 1
+	Query: "catalognumber:11162 institutioncode:FMNH" ; Times: 2
+	Query: "258270" ; Times: 1
+	Query: "FMNH 81638" ; Times: 2
+	Query: "specificepithet:tetragrammus genus:plestiodon hassex:1" ; Times: 1
+	Query: "146501" ; Times: 1
+	Query: "catalognumber:74383 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:acutus genus:crocodylus (male OR female) hassex:1" ; Times: 1
+	Query: "46181" ; Times: 1
+	Query: "FMNH 167706" ; Times: 1
+	Query: "catalognumber:188495 institutioncode:FMNH" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 7
+	Query: "crotaphytus reticulatus" ; Times: 1
+	Query: "catalognumber:172457 institutioncode:FMNH" ; Times: 1
+	Query: "gyrinophilus palleucus" ; Times: 2
+	Query: "catalognumber:53567 institutioncode:FMNH" ; Times: 1
+	Query: "vernalis blanchardi" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 2
+	Query: "genus:Tantilla country:&#34;Peru&#34;" ; Times: 2
+	Query: "Phyllodactylus reissii Ecuador" ; Times: 1
+	Query: "plectrohyla guatemalensis" ; Times: 1
+	Query: "catalognumber:93589 institutioncode:FMNH" ; Times: 1
+	Query: "Atractus elaps" ; Times: 6
+	Query: "cerastes vipera" ; Times: 10
+	Query: "lepidodactylus aureolineatus fmnh" ; Times: 1
+	Query: "macroprotodon cucullatus" ; Times: 1
+	Query: "Sibon dimidiata" ; Times: 1
+	Query: "catalognumber:125 institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus hastypestatus:1" ; Times: 1
+	Query: "anolis transversalis" ; Times: 1
+	Query: "catalognumber:183789 institutioncode:FMNH" ; Times: 1
+	Query: "Diadophis punctatus similis" ; Times: 1
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "&#34;thorius schmidti&#34; vntype:specimen" ; Times: 1
+	Query: "catalognumber:93588 institutioncode:FMNH" ; Times: 1
+	Query: "281688" ; Times: 1
+	Query: "genus:drymarchon (male OR female) hassex:1" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 1
+	Query: "FMNH 81036" ; Times: 2
+	Query: "specificepithet:boreas institutioncode:FMNH" ; Times: 2
+	Query: "Trapelus pallidus" ; Times: 2
+	Query: "amphisbaena alba" ; Times: 1
+	Query: "catalognumber:195547 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:55874 institutioncode:FMNH" ; Times: 1
+	Query: "Barbourula" ; Times: 2
+	Query: "catalognumber:138663 institutioncode:FMNH" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 3
+	Query: "Chiropterotriton magnipes" ; Times: 1
+	Query: "Eleutherodactylus schwartzi" ; Times: 9
+	Query: "genus:Boulengerina family:Elapidae" ; Times: 1
+	Query: "Zaocys dhumnades montanus" ; Times: 1
+	Query: "specificepithet:fleischmanni genus:Hyalinobatrachium institutioncode:FMNH" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Peru&#34; year &gt;= 1985" ; Times: 1
+	Query: "catalognumber:105500 institutioncode:FMNH" ; Times: 1
+	Query: "scientificname:&#34;nyctibatrachus aliciae&#34;" ; Times: 1
+	Query: "Bufo periglenes" ; Times: 1
+	Query: "Chelonoidis niger" ; Times: 1
+	Query: "catalognumber:183790 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:77146" ; Times: 1
+	Query: "genus:Oxybelis country:&#34;Trinidad&#34;" ; Times: 2
+	Query: "genus:Tantilla country:&#34;Mexico&#34; year &gt;= 1985" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "genus:Macrochelys catalognumber:15887" ; Times: 1
+	Query: "tropidophorus fmnh" ; Times: 7
+	Query: "FMNH 219669" ; Times: 1
+	Query: "brachymeles fmnh" ; Times: 1
+	Query: "catalognumber:188497 institutioncode:FMNH" ; Times: 1
+	Query: "fmnh cnemaspis tropidogaster" ; Times: 1
+	Query: "catalognumber:147671 institutioncode:FMNH" ; Times: 1
+	Query: "Tomodon ocellatus" ; Times: 2
+	Query: "Riopa haroldyoungi" ; Times: 1
+	Query: "specificepithet:brevissima genus:Tantilla" ; Times: 1
+	Query: "FMNH 274954" ; Times: 1
+	Query: "Jeffersonianum illinois clark" ; Times: 1
+	Query: "scientificname:&#34;varanus olivaceus&#34;" ; Times: 1
+	Query: "FMNH 10843" ; Times: 1
+	Query: "Pseudacris brachyphona year &gt;= 1980 year &lt;= 2017" ; Times: 1
+	Query: "liopeltis calamaria" ; Times: 2
+	Query: "Bolitoglossa biseriata" ; Times: 2
+	Query: "fmnh cnemaspis" ; Times: 2
+	Query: "catalognumber:94362 institutioncode:FMNH" ; Times: 1
+	Query: "genus:clonophis hassex:1" ; Times: 1
+	Query: "catalognumber:11677 institutioncode:FMNH" ; Times: 1
+	Query: "acanthodactylus aegyptius" ; Times: 3
+	Query: "196029" ; Times: 2
+	Query: "genus:Bombina specificepithet:maxima" ; Times: 1
+	Query: "FMNH 70691" ; Times: 1
+	Query: "specificepithet:grahamii genus:regina institutioncode:FMNH" ; Times: 1
+	Query: "amolops cremnobatus" ; Times: 1
+	Query: "specificepithet:scytalina genus:clelia" ; Times: 1
+	Query: "chiropterotriton magnipes" ; Times: 1
+	Query: "genus:Chioglossa specificepithet:lusitanica" ; Times: 2
+	Query: "114020" ; Times: 1
+	Query: "FMNH 113522" ; Times: 1
+	Query: "Chilorhinophis carpenteri liwalensis" ; Times: 1
+	Query: "183292" ; Times: 1
+	Query: "Laudakia microlepis" ; Times: 1
+	Query: "genus:Tantilla year &gt;= 1990 institutioncode:FMNH" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "Micropechis ikaheka" ; Times: 1
+	Query: "catalognumber:13717 institutioncode:FMNH" ; Times: 1
+	Query: "eryx jaculus" ; Times: 1
+	Query: "FMNH 20615" ; Times: 2
+	Query: "liopeltis" ; Times: 1
+	Query: "220969" ; Times: 1
+	Query: "Pipa aspera" ; Times: 1
+	Query: "genus:Barbourula" ; Times: 2
+	Query: "Agama spinosa" ; Times: 1
+	Query: "catalognumber:172458 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 4
+	Query: "catalognumber:68902 institutioncode:FMNH" ; Times: 1
+	Query: "Nerodia sipedon pleuralis" ; Times: 1
+	Query: "noblella" ; Times: 1
+	Query: "Ophryacus" ; Times: 1
+	Query: "scientificname:&#34;brachytarsophrys carinensis&#34;" ; Times: 1
+	Query: "catalognumber:75661 institutioncode:FMNH" ; Times: 3
+	Query: "catalognumber:142133 institutioncode:FMNH" ; Times: 1
+	Query: "Scutiger nyingchiensis" ; Times: 1
+	Query: "genus:alligator (male OR female) hassex:1" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Dipsas indica" ; Times: 2
+	Query: "139594" ; Times: 1
+	Query: "catalognumber:172267" ; Times: 1
+	Query: "catalognumber:142459 institutioncode:FMNH" ; Times: 1
+	Query: "pseudis paradoxa" ; Times: 2
+	Query: "Tomodon dorsatus" ; Times: 4
+	Query: "specificepithet:stormi genus:plethodon month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "phyllomedusa vaillantii" ; Times: 2
+	Query: "Nessia" ; Times: 1
+	Query: "specificepithet:cinerea county:&#34;Washington&#34;" ; Times: 2
+	Query: "Tropiocolotes steudneri" ; Times: 1
+	Query: "specificepithet:mutica genus:apalone hassex:1" ; Times: 1
+	Query: "Dipsas pratti" ; Times: 2
+	Query: "Ceratophrys calcarata" ; Times: 2
+	Query: "genus:Tantilla institutioncode:FMNH" ; Times: 1
+	Query: "lipinia auriculata fmnh" ; Times: 1
+	Query: "266723" ; Times: 1
+	Query: "80294" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 24
+	Query: "catalognumber:268138 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "Testudo kleinmanni" ; Times: 1
+	Query: "Aparallactus werneri" ; Times: 1
+	Query: "fmnh sphenomorphus indicus" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Honduras&#34; year &gt;= 1985" ; Times: 1
+	Query: "Thamnophis rufipunctatus" ; Times: 8
+	Query: "Caecilia gracilis" ; Times: 2
+	Query: "FMNH 81635" ; Times: 3
+	Query: "FMNH 81640" ; Times: 2
+	Query: "FMNH 81641" ; Times: 4
+	Query: "catalognumber:199873 institutioncode:FMNH" ; Times: 1
+	Query: "92661" ; Times: 1
+	Query: "Bungarus caeruleus" ; Times: 5
+	Query: "specificepithet:jaculus genus:eryx" ; Times: 1
+	Query: "FMNH 81639" ; Times: 1
+	Query: "Sibynomorphus mikanii" ; Times: 1
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "eunectes notaeus" ; Times: 1
+	Query: "eryx colubrinus" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 3
+	Query: "Mesalina bahaeldini" ; Times: 1
+	Query: "gopherus flavomarginatus" ; Times: 3
+	Query: "Chilorhinophis carpenteri carpenteri" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Ialtris" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 8
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "Oxybelis FMNH 4209" ; Times: 1
+	Query: "rhinobothryum" ; Times: 1
+	Query: "catalognumber:203973 institutioncode:FMNH" ; Times: 1
+	Query: "Paramesotriton chinensis" ; Times: 2
+	Query: "R-194073" ; Times: 1
+	Query: "catalognumber:131855 institutioncode:FMNH" ; Times: 1
+	Query: "Thamnophis pulchrilatus" ; Times: 1
+	Query: "genus:Argenteohyla specificepithet:siemersi" ; Times: 3
+	Query: "Actinemys" ; Times: 1
+	Query: "institutioncode:FMNH" ; Times: 4
+	Query: "stoliczkae" ; Times: 1
+	Query: "scalaris slevini" ; Times: 3
+	Query: "CH 6650" ; Times: 1
+	Query: "63298" ; Times: 1
+	Query: "catalognumber:61626 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:margaretae class:Amphibia" ; Times: 2
+	Query: "Leptopelis gramineus" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Trinidad&#34;" ; Times: 1
+	Query: "catalognumber:138664 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:158669 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 177682" ; Times: 1
+	Query: "Peltocephalus dumerilianus" ; Times: 1
+	Query: "institutioncode:FMNH Ceratophrys" ; Times: 2
+	Query: "Mesalina olivieri" ; Times: 5
+	Query: "catalognumber:195450 institutioncode:FMNH" ; Times: 1
+	Query: "Laemanctus longipes" ; Times: 1
+	Query: "clelia scytalina" ; Times: 1
+	Query: "catalognumber:157725 institutioncode:FMNH" ; Times: 1
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "catalognumber:172461 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 81027" ; Times: 2
+	Query: "142457" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 1
+	Query: "tropidophorus micropus fmnh" ; Times: 1
+	Query: "Caiman yacare" ; Times: 1
+	Query: "fmnh mabuya rugifera" ; Times: 1
+	Query: "catalognumber:128265 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:105499 institutioncode:FMNH" ; Times: 1
+	Query: "genus:Diadophis country:&#34;Mexico&#34;" ; Times: 3
+	Query: "Diadophis regalis regalis" ; Times: 2
+	Query: "64210" ; Times: 1
+	Query: "FMNH 195224" ; Times: 1
+	Query: "Trapelus savignii" ; Times: 1
+	Query: "catalognumber:11133 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:188560 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:105498 institutioncode:FMNH" ; Times: 1
+	Query: "thorius schmidti" ; Times: 1
+	Query: "Sceloporus salvini" ; Times: 3
+	Query: "genus:Bolitoglossa specificepithet:celaque" ; Times: 1
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "genus:Atractus country:&#34;Colombia&#34;" ; Times: 5
+	Query: "Python molurus" ; Times: 1
+	Query: "specificepithet:herberti genus:Lygosoma" ; Times: 1
+	Query: "catalognumber:188498 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:213395 institutioncode:FMNH" ; Times: 1
+	Query: "Pseudacris brachyphona year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Duberria lutrix" ; Times: 13
+	Query: "Mesalina guttulata" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 6
+	Query: "atractus vertebralis" ; Times: 1
+	Query: "genus:andrias" ; Times: 2
+	Query: "gekko mindorensis fmnh" ; Times: 1
+	Query: "Plestiodon callicephalus" ; Times: 3
+	Query: "genus:Hynobius specificepithet:formosanus" ; Times: 1
+	Query: "catalognumber:188494 institutioncode:FMNH" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 10
+	Query: "genus:Tantilla country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Bothriechis marchi" ; Times: 1
+	Query: "Actinemys marmorata marmorata" ; Times: 3
+	Query: "specificepithet:stormi genus:plethodon" ; Times: 1
+	Query: "tantilla planiceps county:&#34;san diego&#34;" ; Times: 1
+	Query: "psammophis sibilans" ; Times: 2
+	Query: "FMNH 149973" ; Times: 1
+	Query: "FMNH 173347" ; Times: 2
+	Query: "FMNH 173345" ; Times: 1
+	Query: "amphibian guyana" ; Times: 3
+	Query: "catalognumber:53566 institutioncode:FMNH" ; Times: 1
+	Query: "Acanthodactylus scutellatus" ; Times: 1
+	Query: "catalognumber:21611 institutioncode:FMNH" ; Times: 1
+	Query: "Leptopelis mossambicus" ; Times: 1
+	Query: "terrapene nelsoni" ; Times: 1
+	Query: "FMNH 88247" ; Times: 2
+	Query: "urunguensis" ; Times: 2
+	Query: "Trapelus mutabilis" ; Times: 5
+	Query: "catalognumber:39639 institutioncode:FMNH" ; Times: 1
+	Query: "tropidoclonion lineatum illinois" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "anolis pentaprion" ; Times: 2
+	Query: "catalognumber:188915 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 269133" ; Times: 1
+	Query: "cyrtodactylus redimiculus" ; Times: 1
+	Query: "riopa frontoparietalis" ; Times: 3
+	Query: "genus:microgecko" ; Times: 1
+	Query: "catalognumber:84775 institutioncode:FMNH" ; Times: 1
+	Query: "fmnh calotes" ; Times: 1
+	Query: "catalognumber:172455 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:188496 institutioncode:FMNH" ; Times: 1
+	Query: "Mauremys japonica" ; Times: 6
+	Query: "atelopus chiriquiensis" ; Times: 1
+	Query: "crotalus unicolor" ; Times: 1
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "lepidodactylus planicaudus fmnh" ; Times: 1
+	Query: "Caudiverbera" ; Times: 2
+	Query: "genus:Boophis specificepithet:tephraeomystax" ; Times: 1
+	Query: "Anomalepis colombia" ; Times: 2
+	Query: "specificepithet:ornata county:&#34;Lee&#34;" ; Times: 1
+	Query: "183644" ; Times: 1
+	Query: "plestiodon callicephalus" ; Times: 6
+	Query: "scientificname:&#34;raorchestes resplendens&#34;" ; Times: 1
+	Query: "specificepithet:valeriae genus:Virginia county:&#34;Oktibbeha&#34;" ; Times: 1
+	Query: "genus:Tantilla year &gt;= 2000 institutioncode:FMNH" ; Times: 1
+	Query: "123022" ; Times: 1
+	Query: "ophryacus undulatus" ; Times: 1
+	Query: "75244" ; Times: 1
+	Query: "catalognumber:46181 institutioncode:FMNH" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 4
+	Query: "specificepithet:macdougalli genus:Sceloporus" ; Times: 2
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Chiropterotriton arboreus" ; Times: 1
+	Query: "Thecadactylus Ecuador" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 111 (out of 1892 download events in this period)
+Total number of records downloaded: 12057
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 76
+	Country: Italy ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: United Kingdom ; Times: 5
+	Country: Puerto Rico ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 5
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-03 ; Times: 8
+	Date: 2018-02-02 ; Times: 8
+	Date: 2018-02-01 ; Times: 8
+	Date: 2018-02-07 ; Times: 5
+	Date: 2018-02-06 ; Times: 4
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-21 ; Times: 6
+	Date: 2018-02-20 ; Times: 8
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-25 ; Times: 6
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 8
+	Date: 2018-02-26 ; Times: 3
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-14 ; Times: 10
+	Date: 2018-02-15 ; Times: 10
+	Date: 2018-02-16 ; Times: 3
+	Date: 2018-02-10 ; Times: 2
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Diadophis punctatus similis" ; Times: 1
+	Query: "regina alleni" ; Times: 1
+	Query: "Chilorhinophis carpenteri carpenteri" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "Chiropterotriton magnipes" ; Times: 1
+	Query: "ambystoma jeffersonianum" ; Times: 1
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Sceloporus spinosus" ; Times: 1
+	Query: "Nerodia sipedon pleuralis" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "genus:Atelopus specificepithet:varius" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "Barbourula" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "Thamnophis pulchrilatus" ; Times: 1
+	Query: "Eleutherodactylus schwartzi" ; Times: 1
+	Query: "Hypnale" ; Times: 1
+	Query: "Rana spectabilis" ; Times: 1
+	Query: "genus:Diadophis institutioncode:FMNH" ; Times: 1
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "genus:andrias" ; Times: 1
+	Query: "genus:storeria hassex:1" ; Times: 1
+	Query: "Mesalina olivieri" ; Times: 2
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "pseudacris ornata" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "Podocnemis unifilis" ; Times: 1
+	Query: "specificepithet:sipedon genus:nerodia hassex:1" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "nerodia fasciata pictiventris" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "Diadophis regalis regalis" ; Times: 1
+	Query: "atelopus certus" ; Times: 1
+	Query: "Aspidoscelis tigris stejnegeri" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "Bungarus ceylonicus" ; Times: 1
+	Query: "amolops cremnobatus" ; Times: 1
+	Query: "regina rigida" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "sceloporus slevini" ; Times: 4
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "Mesalina guttulata" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "Anniella pulchra nigra" ; Times: 1
+	Query: "leptodactylus macrosternum" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "noblella vntype:specimen" ; Times: 2
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "vipera ursinii" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "Diadophis punctatus modestus" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "atelopus chiriquiensis" ; Times: 1
+	Query: "atelopus glyphus" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "clonophis kirtlandii" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "rana areolata" ; Times: 1
+	Query: "genus:Rhacophorus hastissue:1" ; Times: 1
+	Query: "Nerodia erythrogaster flavigaster" ; Times: 1
+	Query: "specificepithet:relictus genus:Batrachoseps" ; Times: 1
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "specificepithet:major genus:Batrachoseps county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Teratoscincus" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+	Query: "Anniella pulchra pulchra" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "Aspidoscelis hyperythra beldingi" ; Times: 1
+	Query: "reptile michigan" ; Times: 2
+	Query: "leiocephalus lunatus lunatus" ; Times: 1
+	Query: "seminatrix pygaea" ; Times: 1
+	Query: "sceloporus scalaris slevini" ; Times: 1
+	Query: "specificepithet:carolina genus:terrapene hassex:1" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "genus:Abronia country:&#34;Mexico&#34;" ; Times: 3
+	Query: "Python molurus" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "Masticophis flagellum piceus" ; Times: 1
+	Query: "vernalis blanchardi" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "occidozyga" ; Times: 1
+	Query: "aspidoscelis gularis" ; Times: 1
+	Query: "ophryacus undulatus" ; Times: 1
+	Query: "Phyllodactylus galapagensis" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "Phyllodactylus reissii Ecuador" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Bungarus caeruleus" ; Times: 1
+
+
+End of report.
